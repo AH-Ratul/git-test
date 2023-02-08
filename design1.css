@@ -1,0 +1,26 @@
+a {
+    color: blue;
+    border: none;
+}
+
+li {
+    color: rgb(219, 97, 168);
+}
+
+.blog {
+    background-color: aquamarine;
+    border: 2px solid black;
+    box-shadow: 5px 5px;
+    border-radius: 5px;
+    margin: 30px;
+    padding: 10px;
+}
+small {
+    color: red;
+}
+
+.blog h3 {
+    color: blue;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
