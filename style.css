@@ -29,6 +29,8 @@ div.polaroid {
     width: 20%;
     margin-left: 30px;
     box-shadow: 0 4px 8px 0;
+    border: 2px solid;
+    border-color: rgb(225, 240, 253);
 }
 
 img {
@@ -41,5 +43,5 @@ img {
 }
 
 .polaroid:hover {
-    background-color: cadetblue;
+    box-shadow: none;
 }
