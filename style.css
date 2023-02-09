@@ -24,3 +24,22 @@ small {
     text-align: justify;
     font-family: 'Courier New', Courier, monospace;
 }
+
+div.polaroid {
+    width: 20%;
+    margin-left: 30px;
+    box-shadow: 0 4px 8px 0;
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.polaroid:hover {
+    background-color: cadetblue;
+}
